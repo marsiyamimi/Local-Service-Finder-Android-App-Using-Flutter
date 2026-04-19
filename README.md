@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local Service Finder
 
 A Flutter mobile app that connects **customers** with **local service providers** (two-sided marketplace). Features include Firebase Authentication, Cloud Firestore for users/providers/bookings, Google Maps for locations, role-based navigation (user vs. provider), booking with date and time, and animated Material 3 UI with light/dark themes.
@@ -74,3 +75,7 @@ Do **not** commit production API keys or private Firebase files if the repositor
 ## License
 
 *[Add a license if required by your course — e.g. MIT — or state “Educational use only.”]*
+=======
+# Local-Service-Finder-Android-App-Using-Flutter
+Local Service Finder Android App Using Flutter
+>>>>>>> 3f1db7889d531a19cb7b8b8e9e6e01201dc1587b
