@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582143599508",
+    "project_id": "localservicefinder-d4fc1",
+    "storage_bucket": "localservicefinder-d4fc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582143599508:android:51e728c9e790fc86456581",
+        "android_client_info": {
+          "package_name": "com.mimi.localservicefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArCb5U20XTfm0IeAZxnjLQohfqWZ5Ya9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
